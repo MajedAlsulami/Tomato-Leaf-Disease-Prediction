@@ -197,7 +197,7 @@ Contributions are welcome!
 If you have any questions or feedback:
 
 -   Email: majedsaadalsulami@gmail.com 
--   GitHub: [MajedAlsulami](https://github.com/your-username)
+-   GitHub: [MajedAlsulami](https://github.com/MajedAlsulami)
 
 ------------------------------------------------------------------------
 
